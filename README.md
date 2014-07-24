@@ -1,4 +1,5 @@
 # ttf-terminus-ja for AUR
+https://aur.archlinux.org/packages/ttf-terminus-ja/
 
 ## creating AUR source tarball
 ```
